@@ -1,21 +1,13 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+# Почти как hostland.ru (что-то есть...)
 
-# hostland.ru - ЭМУЛЯТОР
-
-Симулятор платформы хостинга https://hostland.ru
+**Эмулятор** платформы хостинга https://hostland.ru,
+что было важно
 - Apache v2
 - php v8.2
-
-С повторением доменной файловой структуры хостинга
+- С повторением доменной файловой структуры хостинга
 
 ## Для запуска демо
 
-Для запуска демо
 - Склонируйте себе
 ```sh
   git clone https://github.com/kaa67/hostland.ru
@@ -36,7 +28,10 @@
 ```sh
   docker-compose up
 ```
-- Откройте в браузере страницу [localhost](http://localhost)
+- Откройте в браузере страницу http://localhost
+
+> [!Note]
+> Не знаете, что дальше? Сорямба - начинаем учить матчасть. (Делал исключительно себе и Алексею Анатольевичу)
 
 ## Если чуть-чуть не устраивает
 
